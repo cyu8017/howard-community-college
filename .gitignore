@@ -1,0 +1,22 @@
+# IDE specific
+**/.idea/
+**/.vscode/
+*.iml
+
+# Python
+**/__pycache__/
+*.pyc
+
+# Java/Android
+**/build/
+**/.gradle/
+*.local
+
+# Node
+**/node_modules/
+
+# OS specific
+.DS_Store
+
+# Log files
+*.log
